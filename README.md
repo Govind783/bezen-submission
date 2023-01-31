@@ -1,6 +1,8 @@
 
 
-My submission for be-zen. A notes app with 4 pre added notes, the user can add and delete notes and even pin them. the pinned notes appear on top. website was built with react 
+My submission for be-zen. A notes app with 4 pre added notes, the user can add and delete notes and even pin them. the pinned notes appear on top. website was built with react.
+upon clicking on a ceratin note a modal opens up where if the user wants he can change the title, tagline and body of the note and the changes get saved. 
+following the basic principle of CRUD.
 
 
 # Getting Started with Create React App
