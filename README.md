@@ -1,3 +1,8 @@
+
+
+My submission for be-zen. A notes app with 4 pre added notes, the user can add and delete notes and even pin them. the pinned notes appear on top. website was built with react 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
